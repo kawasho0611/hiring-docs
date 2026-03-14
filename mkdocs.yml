@@ -1,6 +1,6 @@
-site_name: "採用・組織ドキュメント"
+site_name: mini-shawn
 site_description: "私たちの採用プロセス、カルチャー、組織づくりについてのオープンドキュメント"
-site_url: "https://kawasho0611.github.io/mini-shawn/"
+site_url: https://kawasho0611.github.io/mini-shawn/
 
 theme:
   name: material
