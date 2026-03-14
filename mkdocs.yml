@@ -37,17 +37,10 @@ edit_uri: "edit/main/docs/"
 
 nav:
   - ホーム: index.md
-  - カルチャー:
-      - 私たちのミッション: culture/mission.md
-      - バリュー: culture/values.md
-      - 働き方: culture/workstyle.md
-  - 採用プロセス:
-      - 選考フロー: process/flow.md
-      - 面接ガイド: process/interview-guide.md
-      - よくある質問: process/faq.md
-  - エンジニアリング:
-      - 技術スタック: engineering/tech-stack.md
-      - 開発文化: engineering/dev-culture.md
+  - コンセプト: concept/
+  - 導入ガイド: install/
+  - 使い方: guides/
+  - 活用例: examples/
 
 plugins:
   - search:
