@@ -41,6 +41,10 @@ nav:
   - 導入ガイド: install/
   - 使い方: guides/
   - 活用例: examples/
+  - ナレッジ:
+      - 求人票改善: knowledge/domains/recruiting/job-description.md
+      - レビュー基準: knowledge/heuristics/review-criteria.md
+      - 求人票改善プレイブック: knowledge/playbooks/improve-job-posting.md
 
 plugins:
   - search:
